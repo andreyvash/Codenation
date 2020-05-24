@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.StatisticUtilTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-05-24T02:39:15" hostname="andrey-All-Series" time="0.001">
+  <properties/>
+  <testcase name="testMode" classname="br.com.codenation.StatisticUtilTest" time="0.0"/>
+  <testcase name="testAverage" classname="br.com.codenation.StatisticUtilTest" time="0.0"/>
+  <testcase name="testMedian" classname="br.com.codenation.StatisticUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
